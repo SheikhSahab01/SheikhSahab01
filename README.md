@@ -1,4 +1,13 @@
 ### Hi there 👋
+## If you think math is hard, try web design  | web Developer
+
+- B.tech (Computer science and Engineering)
+- 🧑‍🎓 Student at [LPU](https://www.lpu.in/)
+- Web Developer 👨‍💻
+- Ask me about javaScript (https://coryrylan.com/assets/images/posts/types/javascript-1280x960.png) 
+- 🌱 I’m currently learning React
+- 
+
 
 <!--
 **SheikhSahab01/SheikhSahab01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
