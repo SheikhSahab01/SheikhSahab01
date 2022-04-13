@@ -4,7 +4,7 @@
 - B.tech (Computer science and Engineering)
 - 🧑‍🎓 Student at [LPU](https://www.lpu.in/)
 - Web Developer 👨‍💻
-- Ask me about javaScript ![js](https://coryrylan.com/assets/images/posts/types/javascript-1280x960.png)
+- Ask me about javaScript ![js](https://coryrylan.com/assets/images/posts/types/javascript-12x9.png)
 - 🌱 I’m currently learning React
 
 
