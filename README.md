@@ -31,21 +31,18 @@
 ## 📫 How to reach me: 
 
 <a href="https://twitter.com/Gocharan_">
-  <img align="left" alt="gocharan twitter" width="150px" src="https://img.shields.io/badge/sheikhsahab_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/sheikhsahab-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
  <a href = "mailto: asifsheikhsheikh786@gmail.com">
-  <img align="left" alt="gocharan protonmain" width="150px" src="https://img.shields.io/badge/asif-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img align="left" alt="" width="150px" height="40px" src="https://img.shields.io/badge/sheikhsahab-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="www.linkedin.com/in/sheikhsahab01">
-  <img align="left" alt="gocharans Linkdein" width="150px" src="https://img.shields.io/badge/Sheikhsahab01-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/Sheikhsahab-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/gocharan_/">
-  <img align="left" alt="gocharans Instagram" width="150px" src="https://img.shields.io/badge/gocharan_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/_sheikh.__.sahab_/">
+  <img align="left" alt="gocharans Instagram" width="150px" src="https://img.shields.io/badge/sheikhsahab-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://gocharan98.medium.com/">
-  <img align="left" alt="gocharans medium" width="150px" src="https://img.shields.io/badge/Gocharan-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-</br>
+
 <!--
 **SheikhSahab01/SheikhSahab01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
