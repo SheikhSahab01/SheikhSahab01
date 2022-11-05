@@ -9,7 +9,7 @@
 
 
 ## I Code Using:
-&nbsp;
+
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 
 ## 📫 How to reach me: 
 
-<a href="https://twitter.com/Gocharan_">
+<a href="https://twitter.com/">
   <img align="left" alt="" width="150px" src="https://img.shields.io/badge/sheikhsahab-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
  <a href = "mailto: asifsheikhsheikh786@gmail.com">
